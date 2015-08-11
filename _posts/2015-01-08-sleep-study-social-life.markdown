@@ -7,12 +7,12 @@ date: 2015-01-08
 
 ![pic][]
  
-Test
+First Post
 
-Link [link][] method has helped me out a lot. The basic 
+My portfolio [link][] 
 
+Oh and I came across this
+<iframe width="640" height="360" src="https://www.youtube.com/watch?v=n8yAfHU-0JI" frameborder="0" allowfullscreen></iframe>
 
-<iframe width="640" height="360" src="http://www.youtube.com/embed/6Te-HyYfYrM?rel=0" frameborder="0" allowfullscreen></iframe>
-
-  [pic]: http://farm4.static.flickr.com/3497/3767049247_84d2ab211b.jpg
-  [link]: http://www.davidco.com/ 
+  [pic]: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8yxb9X57QJ58n0ZAAnC89F08lwgxnGQOKkPSjGwfitl6VK4wy9Q
+  [link]: http://www.craftfortress.com/ 
