@@ -11,5 +11,8 @@ Test
 
 Link [link][] method has helped me out a lot. The basic 
 
+
+<iframe width="640" height="360" src="http://www.youtube.com/embed/6Te-HyYfYrM?rel=0" frameborder="0" allowfullscreen></iframe>
+
   [pic]: http://farm4.static.flickr.com/3497/3767049247_84d2ab211b.jpg
   [link]: http://www.davidco.com/ 
