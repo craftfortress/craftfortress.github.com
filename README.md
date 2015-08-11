@@ -1,0 +1,2 @@
+# craftfortress.github.com
+Blog
